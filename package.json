@@ -1,0 +1,11 @@
+{
+  "name": "crm-moderator-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "telegraf": "^4.15.6",
+    "@notionhq/client": "^2.2.15"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
